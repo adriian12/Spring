@@ -1,9 +1,0 @@
-package org.formacio.repositori;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface GrupoRepositori extends CrudRepository<Grupo, String>{
-	
-	void findByNombre ();
-
-}

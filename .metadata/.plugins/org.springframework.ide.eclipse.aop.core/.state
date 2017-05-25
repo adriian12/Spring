@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="hello"/>
-<aop-project name="setmana_2_practica_JPA"/>
-<aop-project name="setmana_2_practica_JPA_enunciado"/>
-<aop-project name="setmana_2_practica"/>
-</aop-reference-model>
