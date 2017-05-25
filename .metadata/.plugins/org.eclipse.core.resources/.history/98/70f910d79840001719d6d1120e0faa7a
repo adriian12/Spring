@@ -1,0 +1,6 @@
+package org.formacio.repositori;
+
+@Entity
+public class Grupo {
+
+}

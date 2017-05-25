@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.formacio.PracticaSetmana2ApplicationTests&apos; to &apos;PracticaSetmana2ApplicationTestsOrig&apos;&#x0A;- Original project: &apos;setmana_2_practica_JPA&apos;&#x0A;- Original element: &apos;org.formacio.PracticaSetmana2ApplicationTests&apos;&#x0A;- Renamed element: &apos;org.formacio.PracticaSetmana2ApplicationTestsOrig&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PracticaSetmana2ApplicationTests&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;org.formacio{PracticaSetmana2ApplicationTests.java[PracticaSetmana2ApplicationTests" matchStrategy="1" name="PracticaSetmana2ApplicationTestsOrig" qualified="false" references="true" similarDeclarations="false" stamp="1495640161261" textual="false" version="1.0"/>
+</session>

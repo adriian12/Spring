@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="setmana_2_practica_JPA_Grupo/src/main/java"/>
+	<classpathentry kind="src" path="setmana_2_practica_JPA_Grupo/src/test/java"/>
+	<classpathentry kind="lib" path="setmana_2_practica_JPA_Grupo/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="setmana_2_practica_JPA_Grupo/target/classes"/>
+</classpath>

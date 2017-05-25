@@ -1,0 +1,8 @@
+package org.formacio.repositori;
+
+
+
+public class PersonaRepositori extends CrudRepositori<Persona, String> {
+	
+}
+

@@ -1,0 +1,15 @@
+package org.formacio.repositori;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
+public class Grupo {
+	
+	@Id
+	@GeneratedValue
+	int id;
+	
+
+}
